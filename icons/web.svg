@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60.81 60.81">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #999;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        fill: #999;
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        font-size: 12.09px;
+      }
+
+      .cls-5 {
+        font-size: 14px;
+        letter-spacing: .05em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2-2" data-name="Layer 2">
+    <g>
+      <circle class="cls-2" cx="30.4" cy="30.4" r="29.4"/>
+      <path class="cls-2" d="m26.9,1.22s-12.67,8.37-13.53,28.8,13.53,29.4,13.53,29.4"/>
+      <path class="cls-2" d="m33.31,1.3s12.67,8.37,13.53,28.8c.86,20.43-13.53,29.4-13.53,29.4"/>
+      <path class="cls-2" d="m8.55,10.73s3.95,6.03,21.08,5.64c19.14-.44,22.62-5.64,22.62-5.64"/>
+      <path class="cls-2" d="m8.4,51.2s3.95-6.03,21.08-5.64c19.14.44,22.62,5.64,22.62,5.64"/>
+      <line class="cls-2" x1="29.78" y1="38.35" x2="29.78" y2="59.94"/>
+      <line class="cls-2" x1="29.78" y1="1.22" x2="29.78" y2="23.83"/>
+      <line class="cls-2" x1="46.86" y1="30.58" x2="60" y2="30.58"/>
+      <line class="cls-2" x1="1.28" y1="30.58" x2="13.35" y2="30.58"/>
+      <rect class="cls-1" x="7" y="23" width="47" height="17"/>
+      <text class="cls-3" transform="translate(13.18 35.29)"><tspan class="cls-5" x="0" y="0">www</tspan><tspan class="cls-4" x="34.77" y="0"> </tspan></text>
+    </g>
+  </g>
+</svg>
